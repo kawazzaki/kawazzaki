@@ -8,12 +8,16 @@ Currently building a **multiplayer horror game** in Godot.
 
 ### Tools I use
 
+<div align="center">
+
 | | |
-|---|---|
+|:---:|:---|
 | 🎮 Godot + GDScript | main engine |
 | 🎯 Unity + C# | occasional |
 | 🐍 Python | scripting & tools |
 | 📐 C++ + OpenGL | I drew a triangle once |
+
+</div>
 
 ---
 
@@ -34,3 +38,9 @@ Currently building a **multiplayer horror game** in Godot.
 ---
 
 *Building things slowly, but building.*
+
+## 🧠 Dev Philosophy
+
+> Build → Break → Learn → Rebuild
+
+Building things slowly, but building.
